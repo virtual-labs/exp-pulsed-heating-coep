@@ -1,4 +1,4 @@
-### Aim : To acquaint the user to pulsed-heating technique and its implications, using conduction mode of heat transfer, differing from continuous conventional heating.
+### To acquaint the user to pulsed-heating technique and its implications, using conduction mode of heat transfer, differing from continuous conventional heating.
 
 #### Objective
 1. To study the Electrical Discharge Machining process
