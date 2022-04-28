@@ -1,1 +1,1 @@
-## Experiment name
+## To study pulsed-heating of materials
