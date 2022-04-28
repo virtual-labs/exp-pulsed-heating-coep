@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In a cooking pan which of the following is important while selecting a material for the pan's handle?",
+      "answers": {
+        "a": "Low thermal conductivity",
+        "b": "High elasticity",
+        "c": "High thermal expansion",
+        "d": "High hardness"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In Electrical Discharge Machining (EDM), the heat is supplied",
+      "answers": {
+        "a": "External heating from the source",
+        "b": "Due to explosion of the dielectric fluid",
+        "c": "Internally due to absorption of spark energy in the surface of materials",
+        "d": "Energy distribution from the plasma column created within the spark gap"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In wire EDM ,the tool is",
+      "answers": {
+        "a": "Hollow conductive tool",
+        "b": "Conductive wire electrode",
+        "c": "Conductive solid moving tool",
+        "d": "Solid insulating tool"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In EDM, generally the working fluid is",
+      "answers": {
+        "a": "Electrolyte",
+        "b": "De-ionized water",
+        "c": "EDM oil",
+        "d": "Kerosene"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In wire EDM, generally the working fluid is",
+      "answers": {
+        "a": "Water + Kerosene",
+        "b": "Kerosene",
+        "c": "De-ionized water",
+        "d": "Electrolyte"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
