@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In EDM, the applied pluses voltage is in the order of",
+      "answers": {
+        "a": "50V DC",
+        "b": "10V AC",
+        "c": "100V DC",
+        "d": "30V DC"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The working pulsing frequency in EDM is of the order",
+      "answers": {
+        "a": "50-200 Hz",
+        "b": "200- 1000 Hz",
+        "c": "50- 200 KHz",
+        "d": "200-500 KHz"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The working pulsing frequency in WEDM is of the order",
+      "answers": {
+        "a": "50- 200 KHz",
+        "b": "200- 1000 Hz",
+        "c": "200-500 KHz",
+        "d": "50-200 Hz"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In Micro-EDM, the pulsing frequency is of the order",
+      "answers": {
+        "a": "500-5000 KHz",
+        "b": "50- 200 KHz",
+        "c": "1 -5 MHz",
+        "d": "200-500 KHz"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Can we take similar thermal modes for laser beam or electron beam heating?",
+      "answers": {
+        "a": "No",
+        "b": "Yes",
+        "c": "Either of them",
+        "d": "Yes with Modifications"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
